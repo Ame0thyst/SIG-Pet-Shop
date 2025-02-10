@@ -1,0 +1,20 @@
+[
+  {
+    "Nama": "Kelenteng Sam Ong Hu",
+    "Latitude": 0.5298105226642194,
+    "Longitude": 101.40618568297664,
+    "Kategori": "Klenteng",
+    "Alamat": "Jl. Harapan Jaya, Air Hitam, Kec. Payung Sekaki, Kota Pekanbaru, Riau",
+    "Deskripsi": "Klenteng Pekanbaru",
+    "Gambar": "https://i.imgur.com/wArytzS.jpeg"
+  },
+  {
+    "Nama": "Lokasi Lain",
+    "Latitude": 0.53,
+    "Longitude": 101.407,
+    "Kategori": "Lainnya",
+    "Alamat": "Jl. Contoh Lain, Kota Pekanbaru, Riau",
+    "Deskripsi": "Deskripsi lokasi lainnya",
+    "Gambar": "https://i.imgur.com/contoh.jpeg"
+  }
+]
